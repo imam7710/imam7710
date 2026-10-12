@@ -111,8 +111,10 @@ Bachelor of Geophysical Engineering, GPA 3.39 — Graduated 2022
 I am currently looking for Junior Backend Developer or Golang Developer roles
 in Indonesia and remote opportunities.
 
-LinkedIn: Muhammad Imam Fadhilah
+🔗 **LinkedIn:** [Muhammad Imam Fadhilah](https://www.linkedin.com/in/muhammad-imam-fadhilah-74459a12a/)
 
-GitHub: @imam7710
+💻 **GitHub:** [@imam7710](https://github.com/imam7710)
+
+🌐 **Portfolio:** [Visit my portfolio](https://portofolio.fadhillah643.workers.dev/)
 
 Building dependable backend systems, one API at a time.
